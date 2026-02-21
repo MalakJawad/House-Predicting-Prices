@@ -1,0 +1,11 @@
+# Don't upload trained models
+models/
+*.pkl
+*.joblib
+
+# Optional: don't upload datasets
+data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
